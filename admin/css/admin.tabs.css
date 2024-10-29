@@ -1,0 +1,26 @@
+.tabcontent {
+  display: none;
+}
+
+.nav-tab-wrapper {
+}
+
+.nav-tab {
+}
+
+.go-ptable {
+  border-collapse: collapse;
+  border: 0px solid black;
+}
+
+.go-pth {
+  border-collapse: collapse;
+  border: 0px solid black;
+  background: #ccc;
+}
+
+.go-ptd {
+  border-collapse: collapse;
+  border: 0px solid black;
+  padding: 5px 5px 5px 5px;
+}
